@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-Covid1984 Green Pass Generator
 """
 
 from zlib import compress
@@ -27,21 +26,21 @@ DATA = {
                     "ma": "ORG-100030215",
                     "vp": "1119349007",
                     "dt": "2021-06-11",
-                    "co": "DE",
+                    "co": "HR",
                     "ci": "420_69",
                     "mp": "EU/1/20/1528",
-                    "is": "Reichsministerium für Volksaufklärung und Propaganda",
+                    "is": "Demokratska Rebulika Hrvatska",
                     "tg": "840539006"
                 }
             ],
             "nam": {
-                "fnt": "Goebbels",
-                "fn": "Goebbels",
-                "gnt": "Paul Joseph",
-                "gn": "Paul Joseph"
+                "fnt": "Jankovic",
+                "fn": "Jankovic",
+                "gnt": "Filip",
+                "gn": "Filip"
             },
             "ver": "1.0.0",
-            "dob": "1897-10-29"
+            "dob": "1986-10-01"
         }
     }
 }
